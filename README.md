@@ -8,7 +8,7 @@ I'm currently learning, experimenting with code, and building projects through c
 
 ---
 
-## 🛠️ Tools & Tech
+## Tools & Tech
 
 - **Languages:** Python, Java, SQL
 - **Database:** MySQL
@@ -16,7 +16,7 @@ I'm currently learning, experimenting with code, and building projects through c
 
 ---
 
-## 🚀 What You'll Find Here
+## What You'll Find Here
 
 - College projects and assignments
 - Personal coding projects and experiments
@@ -26,13 +26,12 @@ I'm focused on learning by building, improving my skills, and exploring new tech
 
 ---
 
-## 👨‍💻 A Bit About Me
+## A Bit About Me
 
 - 💻 Interested in technology and problem-solving
 - 🤖 Exploring AI, Machine Learning, and data science
 - 📈 Interested in trading and financial markets
 - 🎮 Enjoy gaming in my free time
-- 🌱 Always learning and looking for ways to improve
 
 ---
 
