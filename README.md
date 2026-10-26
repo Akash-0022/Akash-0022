@@ -1,10 +1,9 @@
-<img width="1200" height="391" alt="AKASH_P_bannerblue" src="https://github.com/user-attachments/assets/8dc52178-0e21-46e6-9120-bf16b669f4eb" />
+<img width="1200" height="391" alt="AKASH_P_banner" src="https://github.com/user-attachments/assets/b998918c-a183-4fb5-bb77-650a4f96d312" />
+
+<img width="1739" height="1476" alt="Who_I_Am_updated" src="https://github.com/user-attachments/assets/4dad0160-2ffb-4edd-85da-35bf6484aff7" />
 
 
-<img width="1739" height="1476" alt="Who_I_Am_updatedblue" src="https://github.com/user-attachments/assets/5c04a91f-1c32-43a8-aa46-6dd7dc61e576" />
-
-
-<img width="1741" height="136" alt="skillblue" src="https://github.com/user-attachments/assets/1bca7c56-022b-4f07-962d-9af028c48586" />
+<img width="1741" height="136" alt="skill" src="https://github.com/user-attachments/assets/da876914-1034-403b-a2f6-d4e95746ea53" />
 
 
 
@@ -41,7 +40,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pratham1603/Pratham1603/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
-<img width="1740" height="109" alt="repoblue" src="https://github.com/user-attachments/assets/e27326f9-4e35-4f31-a3da-eb7f4534f9f9" />
+<img width="1740" height="109" alt="REPO" src="https://github.com/user-attachments/assets/47bc4a8e-ddb6-4282-a16c-7f5d255a04f6" />
+
 
   
     
