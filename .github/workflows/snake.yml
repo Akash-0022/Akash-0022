@@ -1,4 +1,4 @@
-name: Generate Blue Snake
+name: Generate Gold Snake
 
 on:
   schedule:
@@ -12,13 +12,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Blue Contribution Snake
+      - name: Generate Gold Contribution Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Akash-0022
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%2300BFFF&color_dots=%230A192F,%231B3A5B,%230062A8,%230078D4,%2300BFFF
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%2300BFFF&color_dots=%230A192F,%231B3A5B,%230062A8,%230078D4,%2300BFFF
+            dist/github-contribution-grid-snake.svg?color_snake=%23D49A2A&color_dots=%230B1F4B,%23152D65,%232A4A8A,%23A87520,%23D49A2A
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23D49A2A&color_dots=%230B1F4B,%23152D65,%232A4A8A,%23A87520,%23D49A2A
 
       - name: Deploy Snake
         uses: crazy-max/ghaction-github-pages@v3.1.0
