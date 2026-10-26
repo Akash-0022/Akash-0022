@@ -1,4 +1,5 @@
-name: Generate Purple Snake
+```yaml
+name: Generate Blue Snake
 
 on:
   schedule:
@@ -13,13 +14,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Purple Contribution Snake
+      - name: Generate Blue Contribution Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: vijay-011
+          github_user_name: Akash-0022
           outputs: |
-            dist/github-snake.svg?color_snake=%23E0AAFF&color_dots=%232E0854,%234C1D95,%237B2CBF,%23B57EDC,%23E0AAFF
-            dist/github-snake-dark.svg?color_snake=%23FFFFFF&color_dots=%232E0854,%234C1D95,%237B2CBF,%23B57EDC,%23E0AAFF
+            dist/github-contribution-grid-snake.svg?color_snake=%2300BFFF&color_dots=%230A192F,%231B3A5B,%230062A8,%230078D4,%2300BFFF
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%2300BFFF&color_dots=%230A192F,%231B3A5B,%230062A8,%230078D4,%2300BFFF
 
       - name: Deploy Snake
         uses: crazy-max/ghaction-github-pages@v3.1.0
@@ -28,3 +29,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
