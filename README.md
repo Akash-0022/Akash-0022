@@ -34,11 +34,22 @@
     </tr>
   </div>
 </table>
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pratham1603/Pratham1603/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pratham1603/Pratham1603/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pratham1603/Pratham1603/output/github-contribution-grid-snake.svg">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Akash-0022/Akash-0022/output/github-contribution-grid-snake-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Akash-0022/Akash-0022/output/github-contribution-grid-snake.svg">
+
+  <img
+    alt="Golden GitHub contribution snake"
+    src="https://raw.githubusercontent.com/Akash-0022/Akash-0022/output/github-contribution-grid-snake.svg"
+    width="100%">
 </picture>
+
 </div>
 <img width="1740" height="109" alt="REPO" src="https://github.com/user-attachments/assets/47bc4a8e-ddb6-4282-a16c-7f5d255a04f6" />
 
